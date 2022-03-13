@@ -2,9 +2,9 @@
 function licenseSec(license) {
     if (license !== 'no license') {
       return `
-    ## [License](#table-of-contents)
-    This project is covered under the following license:
-    [${license}](https://choosealicense.com/licenses/${license})
+## [License](#table-of-contents)
+This project is covered under the following license:
+[${license}](https://choosealicense.com/licenses/${license})
       `;
     } else {
       return ' ';
