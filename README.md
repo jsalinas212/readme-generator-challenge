@@ -29,5 +29,7 @@ undefined
 
 ## [Questions](#table-of-contents)
 Please contact me using the following links:
-[GitHub](https://github.com/undefined)
+
+[GitHub](https://github.com/jsalinas212)
+
 [Email: asalinas212@outlook.com](mailto:asalinas212@outlook.com)
