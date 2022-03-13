@@ -25,7 +25,6 @@ This project is covered under the following license:
 Clone the repository and create a pull request after making your modifications!
 
 ## [Tests](#table-of-contents)
-undefined
 
 ## [Questions](#table-of-contents)
 Please contact me using the following links:

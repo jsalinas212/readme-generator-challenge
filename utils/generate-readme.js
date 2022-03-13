@@ -37,7 +37,7 @@ ${licenseSec(data.license)}
 ${data.contributing}
   
 ## [Tests](#table-of-contents)
-${data.test}
+${data.testing}
   
 ## [Questions](#table-of-contents)
 Please contact me using the following links:

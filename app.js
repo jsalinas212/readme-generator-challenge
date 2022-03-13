@@ -88,7 +88,7 @@ const promptReadme = () => {
         {
             type: 'input',
             message: "(Optional) Are there any test cases for your project you would like to list?",
-            name: 'tests'
+            name: 'testing'
         },
         {
             type: 'list',
